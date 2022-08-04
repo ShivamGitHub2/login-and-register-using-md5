@@ -179,7 +179,7 @@ $(document).on('keydown',function(e)
 <div class="form-check">
   <label id="lblcheck" class="form-check-label">
     <input type="checkbox"    class="form-check-input" name="agree">
-    I AGREE TO ALL IMFORMATIN  HERRREE.
+    I AGREE TO ALL IMFORMATIN  HERRREeeE.
   </label>
 </div>
 <!--submit-->
